@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Hoang Anh Le 👋
 
-<!--
-**lhadata/lhadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Data Analyst** student dedicated to transforming raw, complex datasets into actionable business insights. Strong foundation in statistical theory coupled with hands-on experience in building end-to-end data pipelines and interactive dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+* **SQL & Databases:** PostgreSQL, Advanced SQL (CTEs, Window Functions, Complex Joins, Aggregations)
+* **Programming & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn), R (dplyr, tidyr, ggplot2), DAX
+* **Data Visualization & BI:** Power BI, Power Query, Microsoft Excel
+* **Tools & Frameworks:** VS Code, Git, GitHub, LaTeX
+
+---
+
+### 📊 Featured Data Projects
+
+#### 1. [Credit Risk Analysis](https://github.com/username/credit-risk-analysis)
+* **Tech Stack:** Python, PostgreSQL, Power BI
+* **Key Achievement:** Cleansed a raw dataset of 32,000+ loan records and executed advanced SQL queries to uncover critical risk drivers (such as a 74.05% default probability for specific DTI thresholds), translating findings into an interactive risk-monitoring dashboard.
+
+#### 2. [App Store Mobile Game Market Analysis](https://github.com/username/app-store-game-analysis)
+* **Tech Stack:** Python, PostgreSQL, Power BI
+* **Key Achievement:** Established a high-integrity dataset of 7,400+ unique games from 17,000+ raw records. Discovered the "Genre Paradox" in user engagement and formulated data-driven monetization and pricing recommendations ($2.99 sweet-spot) for game developers.
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
