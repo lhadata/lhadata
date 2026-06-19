@@ -26,5 +26,5 @@ A passionate **Data Analyst** student dedicated to transforming raw, complex dat
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/hoanganhle05](www.linkedin.com/in/hoanganhle05)
+* **Email:** [hoanganhle.w05@gmail.com](hoanganhle.w05@gmail.com)
