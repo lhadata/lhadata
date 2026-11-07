@@ -1,6 +1,6 @@
 # Hi there, I'm Hoang Anh Le 👋
 
-A passionate **Data Analyst** student dedicated to transforming raw, complex datasets into actionable business insights. Strong foundation in statistical theory coupled with hands-on experience in building end-to-end data pipelines and interactive dashboards.
+A data-driven student with a strong foundation in statistical theory and analytics. Passionate about transforming complex datasets into actionable business insights and translating them into impactful product strategies. Currently exploring the intersection of Data Analytics and Product Management to build user-centric solutions.
 
 ---
 
